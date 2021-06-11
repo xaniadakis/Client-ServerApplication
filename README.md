@@ -1,5 +1,5 @@
 # Client-Server Application
-The aim of this work was to get us acquainted with the creation of threads and web sockets.
+The aim of this work was to get us acquainted with threads and web sockets.
 
 ![image](https://user-images.githubusercontent.com/75081526/121636773-1701e180-ca91-11eb-8a5a-779287f3a513.png)
 
